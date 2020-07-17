@@ -9,7 +9,7 @@ This software renders html in alignment with its plain text source and Document 
 This platform intends to articulate the relationship between code as it is composed (in plain text form), and executed (in this case, rendered as an html element).
 
 
-This project began as an initial implementation of the software schematic proposed in the thesis document (linked above). It was first presented in an extremely rudimentary state, to illustrate how such a platform might function. It is, by definition, a proof of concept. 
+This project began as an initial implementation of the software schematic proposed in the thesis document (linked above). It was first presented in an extremely rudimentary state, to illustrate how such a platform might function. It is, by definition, a proof of concept. Consequently, this repository is missing a littany of elements that come standard in any profressional-grade software. It simply wasn't necessary to invest the time in these components for a thesis presentation. 
 
 ## Instructions
 Instructions & other details forthcoming. 
