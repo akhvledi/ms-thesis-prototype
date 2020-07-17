@@ -12,4 +12,4 @@ This platform intends to articulate the relationship between code as it is compo
 This project began as an initial implementation of the software schematic proposed in the thesis document (linked above). It was first presented in an extremely rudimentary state, to illustrate how such a platform might function. It is, by definition, a proof of concept. 
 
 ## Instructions
-Instructions forthcoming. 
+Instructions & other details forthcoming. 
